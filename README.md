@@ -6,8 +6,7 @@ Entré al mundo de la informática hace un año, esto es algo que siempre me apa
 Estuve involucrado en la creación de un proyecto E-commerce, donde mayormente me dediqué al sector Frontend, además de haber apoyado en la resolución de problemas en el Backend.
 
 -Tech Skills:
-JavaScript | React | Redux | CSS | SQL | NodeJS | Tailwind | Bootstrap
-Illustrator | Photoshop | Premiere | After Effects
+JavaScript | React | Redux | CSS | SQL | NodeJS | Tailwind | Bootstrap | Illustrator | Photoshop | Premiere | After Effects
 
 -Soft Skills:
 Me gusta escuchar, interpretar y aprender. Considero que el trabajo en equipo es enriquecedor y disfruto conocer y relacionarme con personas de diferentes lugares y culturas. Siempre de buen humor. Me apasiona el diseño y la resolución de problemas.
