@@ -1,4 +1,4 @@
-Hola! Mi nombre es Agustin, tengo 25 años, soy de Uruguay y soy Full-Stack Web Developer con orientación al sector Frontend.
+Hola! Mi nombre es Agustin, tengo 25 años, soy de Argentina y soy Full-Stack Web Developer con orientación al sector Frontend.
 
 Entré al mundo de la informática hace un año, esto es algo que siempre me apasionó, además de ser un mundo con muchas oportunidades, que se complementan con mis conocimientos y el modo de vida que quiero.
  A pesar de que la trayectoria tuvo su grado de dificultad en ciertas ocasiones, pude cumplir mi meta de ser desarrollador web gracias al bootcamp SoyHenry, y espero pronto poder ampliar mis conocimientos y especializarme en otras ramas de la informática.
